@@ -1,6 +1,5 @@
 
-paper:  **Intelligent Measurement of Morphological Characteristics of Fish Using Improved U-Net**.
-[链接](https://www.researchgate.net/publication/352390820_Intelligent_Measurement_of_Morphological_Characteristics_of_Fish_Using_Improved_U-Net)
+#### paper: Intelligent Measurement of Morphological Characteristics of Fish Using Improved U-Net.[[链接](https://www.researchgate.net/publication/352390820_Intelligent_Measurement_of_Morphological_Characteristics_of_Fish_Using_Improved_U-Net)]
 
 #### If you want to get the public dataset, please go to [[link](https://github.com/YuChuang1205/Fish-pure-background-dataset)]  
 ### If you want to reproduce the paper, you need to understand the following information.
