@@ -6,8 +6,6 @@ import os
 import time
 
 
-
-
 # 当训练检测倾斜鱼体是才开启rotation_range
 data_gen_args = dict(
                     rotation_range=45,
