@@ -23,3 +23,6 @@ model.fit_generator(myGene,steps_per_epoch=600,epochs=50,callbacks=[model_checkp
 testGene = testGenerator("data/mydata/test",target_size = (864,1152))
 results = model.predict_generator(testGene,50,verbose=1)
 saveResult("data/mydata/test_results",results)
+
+
+
